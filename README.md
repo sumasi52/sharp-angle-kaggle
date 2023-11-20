@@ -1,2 +1,2 @@
-# sharp_angle_kaggle
+# sharp-angle-kaggle
 kaggle repository for sharp angle team
